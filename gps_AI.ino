@@ -6,7 +6,7 @@ SoftwareSerial gsmSerial(7, 8);
 
 TinyGPSPlus gps;
 
-String phoneNumber = "+917600060718";
+String phoneNumber = "+9176000XXXXX"; // Add your phone number
 bool smsSent = false;
 
 void setup() {
