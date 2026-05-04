@@ -1,0 +1,25 @@
+Step 1: Connect Ultrasonic Sensor (HC-SR04)
+- VCC → 5V
+- GND → GND
+- TRIG → Pin 9
+- ECHO → Pin 10
+
+Step 2: Connect Buzzer to Pin 6
+
+Step 3: Connect GSM Module (SIM800/900)
+- TX → Pin 7
+- RX → Pin 8
+
+Step 4: Connect GPS Module (NEO-6M)
+- TX → Pin 4
+- RX → Pin 5
+
+Step 5: Insert SIM card in GSM module
+
+Step 6: Upload code using Arduino IDE
+
+Step 7: Power the circuit
+
+Step 8: When obstacle is detected:
+- Buzzer alerts user
+- SMS is sent in emergency
